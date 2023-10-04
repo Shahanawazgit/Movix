@@ -7,7 +7,7 @@ const Img = ({ src, className }) => {
 };
 
 Img.propTypes = {
-  src: PropTypes.string,
+  src: PropTypes.any,
   className: PropTypes.string,
 };
 
