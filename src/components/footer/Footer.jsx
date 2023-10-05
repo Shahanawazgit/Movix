@@ -16,9 +16,7 @@ const Footer = () => {
           <li className="menuItem">FAQ</li>
         </ul>
         <div className="infoText">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-          veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-          voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+          This React.js web app is a feature-rich platform resembling IMDb, focusing on movie and TV show ratings, overviews, genres, details, similarities, and personalized recommendations. Leveraging React.js, Redux Toolkit, TMDB API, and various React libraries, I provide an immersive user experience, allowing enthusiasts to explore, critique, and discover content easily. From detailed reviews to insightful genre categorization, my app caters to avid viewers, empowering them to make informed choices and discover new favorites. With a seamless interface and robust functionality, I strive to enhance the entertainment journey for every movie and TV show enthusiast.
         </div>
         <div className="socialIcons">
           <span className="icon">
