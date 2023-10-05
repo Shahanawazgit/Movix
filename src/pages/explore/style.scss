@@ -5,6 +5,15 @@
   .resultNotFound {
     font-size: 24px;
     color: var(--black-light);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    img {
+      width: 250px;
+      @include md {
+        width: 500px;
+      }
+    }
   }
   .pageHeader {
     display: flex;
