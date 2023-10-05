@@ -1,8 +1,8 @@
-# React + Vite
+# Movix: Ratings, Overviews, Recommendation for newest Movies & TV Shows!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
+"This React.js web app is a feature-rich platform resembling IMDb, focusing on movie and TV show ratings, overviews, genres, details, similarities, and personalized recommendations. Leveraging React.js, Redux Toolkit, TMDB API, and various React libraries, I provide an immersive user experience, allowing enthusiasts to explore, critique, and discover content easily. From detailed reviews to insightful genre categorization, my app caters to avid viewers, empowering them to make informed choices and discover new favorites. With a seamless interface and robust functionality, I strive to enhance the entertainment journey for every movie and TV show enthusiast."
 
-Currently, two official plugins are available:
+## Home Page
+![Movix-Home](https://github.com/Shahanawazgit/Movix/assets/139430501/9ee09f94-3514-4247-aac5-edc174661c00)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
