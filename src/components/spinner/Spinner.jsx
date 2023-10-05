@@ -1,4 +1,5 @@
 import "./style.scss";
+import PropTypes from "prop-types";
 
 const Spinner = ({ initial }) => {
   return (
@@ -8,6 +9,10 @@ const Spinner = ({ initial }) => {
       </svg>
     </div>
   );
+};
+
+Spinner.propTypes = {
+  initial: PropTypes.any,
 };
 
 export default Spinner;
